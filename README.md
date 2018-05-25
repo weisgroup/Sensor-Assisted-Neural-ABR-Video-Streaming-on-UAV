@@ -3,7 +3,7 @@
 The reference implementation for the project
 
 _An Sensor-Assisted Neural ABR Video Streaming on UAV_
-will be submitted to INFOCOM 2018</br>
+was executed during December 2017 to May 2018</br>
 by Xuedou Xiao,Taobin Chen,Wei Wang, Tao Jiang ,Qian Zhang
 
 The code is provided only for replication purposes, futher development is not plannde.
